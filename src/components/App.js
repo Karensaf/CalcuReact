@@ -28,7 +28,7 @@ class App extends Component {
           title="Sumadorooota" 
           items={items}/>
         <Body body={children} />
-        <Footer comentario="Le entiendo poquito :(" />
+        <Footer comentario="Le entiendo un poco más :)" />
       </div>
     );
   }
